@@ -1,0 +1,513 @@
+"","last_name","updated_at","nimsp_candidate_id","full_name","+district_address","first_name","middle_name","id","state","votesmart_id","leg_id","active","transparencydata_id","photo_url","+capital_address","url","country","created_at","level","suffixes","district","party","email","nimsp_id","chamber","nickname","+birth_date"
+"1","Patrick","2016-05-02 08:30:02",NA,"Dan Patrick"," 11451 Katy Fwy, Suite 209
+Houston, TX 77079
+(713) 464-0282","Dan","","TXL000202","tx","57986","TXL000202",TRUE,"b876eed375034c118aecde55e5404232","http://www.legdir.legis.state.tx.us/FlashCardDocs/images/Senate/small/A1430.jpg"," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0107","http://www.legdir.legis.state.tx.us/MemberInfo.aspx?Chamber=S&Code=A1430","us","2010-06-19 03:51:42","state","",NA,NA,NA,NA,NA,NA,NA
+"2","Allen","2017-06-20 10:17:51","111820","Alma Allen"," 10101 Fondren Road,, Suite 500
+Houston, TX 77096
+(713) 776-0505","Alma A.","","TXL000214","tx","25503","TXL000214",TRUE,"7fc988fcb9fa47e8b9d05dfa6bcb7a33","http://www.house.state.tx.us/photos/members/2100.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0744","http://www.house.state.tx.us/members/member-page/?district=131","us","2010-06-19 03:51:42","state","","131","Democratic","","4031","lower",NA,NA
+"3","Alonzo","2017-06-20 10:17:51","99942","Roberto Alonzo"," 312 W. 12th St., Ste. A
+Dallas, TX 75208
+(214) 942-7104","Roberto R.","","TXL000215","tx","5468","TXL000215",TRUE,"d4441ac0f2c2454fb92c6526a6490e01","http://www.house.state.tx.us/photos/members/2125.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0408","http://www.house.state.tx.us/members/member-page/?district=104","us","2010-06-19 03:51:42","state","","104","Democratic","","1149","lower",NA,NA
+"4","Alvarado","2017-06-20 10:17:51","99943","Carol Alvarado"," 2900 Woodridge Dr., Suite 305
+Houston, TX 77087
+(713) 649-6563","Carol","","TXL000216","tx","49524","TXL000216",TRUE,"f8a3c4d4718e421c98252914a183ced8","http://www.house.state.tx.us/photos/members/2135.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0732","http://www.house.state.tx.us/members/member-page/?district=145","us","2010-06-19 03:51:42","state","","145","Democratic","","7037","lower",NA,NA
+"5","Anchia","2017-06-20 10:17:51","111823","Rafael Anchia"," 1111 West Mockingbird Lane,, Suite 1330
+Dallas, TX 75247
+(214) 943-6081","Rafael","","TXL000217","tx","49874","TXL000217",TRUE,"7c299471e4414887acc94f98785a90b0","http://www.house.state.tx.us/photos/members/2150.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0746","http://www.house.state.tx.us/members/member-page/?district=103","us","2010-06-19 03:51:42","state","","103","Democratic","","7061","lower",NA,NA
+"6","Anderson","2017-06-20 10:17:51","99944","Charles Anderson"," 900 Austin Avenue, Suite 804
+Waco, TX 76701
+(254) 754-3892","Charles ""Doc""","","TXL000218","tx","49739","TXL000218",TRUE,"8c979526b31342ec8a4705b61d5c068e","http://www.house.state.tx.us/photos/members/2155.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0135","http://www.house.state.tx.us/members/member-page/?district=56","us","2010-06-19 03:51:42","state","","56","Republican","","7055","lower","Doc",NA
+"7","Bohac","2017-06-20 10:17:51","111835","Dwayne Bohac"," 2600 Gessner, Suite 212
+Houston, TX 77080
+(713) 460-2800","Dwayne","","TXL000221","tx","10044","TXL000221",TRUE,"085c2d93f51343ca8d1fc669d0b5c9ec","http://www.house.state.tx.us/photos/members/2230.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0727","http://www.house.state.tx.us/members/member-page/?district=138","us","2010-06-19 03:51:42","state","","138","Republican","","2540","lower",NA,NA
+"8","Bonnen","2017-06-20 10:17:51","111837","Dennis Bonnen"," 122 East Myrtle
+Angleton, TX 77515
+(979) 848-1770","Dennis","","TXL000223","tx","10099","TXL000223",TRUE,"5b69814b9b0f4ea28283d7cd334ff472","http://www.house.state.tx.us/photos/members/2250.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0564","http://www.house.state.tx.us/members/member-page/?district=25","us","2010-06-19 03:51:42","state","","25","Republican","","2547","lower",NA,NA
+"9","Button","2017-06-20 10:17:51","99955","Angie Chen Button"," 1200 E. Executive Drive,, Suite 130
+Richardson, TX 75081
+(972) 234-8980","Angie Chen","","TXL000228","tx","117473","TXL000228",TRUE,"f5ca5766c3e942fa88d82417a24cfed2","http://www.house.state.tx.us/photos/members/2510.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0486","http://www.house.state.tx.us/members/member-page/?district=112","us","2010-06-19 03:51:42","state","","112","Republican","","9282","lower",NA,NA
+"10","Coleman","2017-06-20 10:17:50","99959","Garnet Coleman"," P.O. Box 88140
+Houston, TX 77288
+(713) 520-5355","Garnet F.","","TXL000235","tx","5479","TXL000235",TRUE,"27e300ba40f04ac4ad14b0129bccd776","http://www.house.state.tx.us/photos/members/2435.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0524","http://www.house.state.tx.us/members/member-page/?district=147","us","2010-06-19 03:51:42","state","","147","Democratic","","1154","lower",NA,NA
+"11","Cook","2017-06-20 10:17:51","99960","Byron Cook"," P.O. Box 2910
+Austin, TX 78701
+(512) 463-0730","Byron","","TXL000236","tx","50125","TXL000236",TRUE,"74bb25235f034a94a79dd4b664b19299","http://www.house.state.tx.us/photos/members/2450.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0730","http://www.house.state.tx.us/members/member-page/?district=8","us","2010-06-19 03:51:42","state","","8","Republican","","7077","lower",NA,NA
+"12","Craddick","2017-06-20 10:17:51","111875","Tom Craddick"," 500 West Texas, Suite 880
+Midland, TX 79701
+(432) 682-3000","Tom","","TXL000239","tx","5485","TXL000239",TRUE,"41f2908476ac48408a1df3471e9e6b51","http://www.house.state.tx.us/photos/members/2610.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0500","http://www.house.state.tx.us/members/member-page/?district=82","us","2010-06-19 03:51:42","state","","82","Republican","","1157","lower",NA,NA
+"13","Darby","2017-06-20 10:17:51","111880","Drew Darby"," 36 West Beauregard, Suite 517
+San Angelo, TX 76903
+(325) 658-7313","Drew","","TXL000242","tx","49842","TXL000242",TRUE,"edfd05120ab24b60a20e49503ce87960","http://www.house.state.tx.us/photos/members/2645.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0331","http://www.house.state.tx.us/members/member-page/?district=72","us","2010-06-19 03:51:42","state","","72","Republican","","7059","lower",NA,NA
+"14","Davis","2017-06-20 10:17:51","111884","Yvonne Davis"," 5787 S. Hampton Rd., Suite 447
+Dallas, TX 75232
+(214) 941-3895","Yvonne","","TXL000244","tx","5491","TXL000244",TRUE,"cc4323a2c9fd4f2785cc974eb4297908","http://www.house.state.tx.us/photos/members/2625.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0598","http://www.house.state.tx.us/members/member-page/?district=111","us","2010-06-19 03:51:42","state","","111","Democratic","","1158","lower",NA,NA
+"15","Deshotel","2017-06-20 10:17:51","111887","Joe Deshotel"," One Plaza Square, Suite 203
+Port Arthur, TX 77642
+(409) 724-0788","Joe","","TXL000245","tx","25400","TXL000245",TRUE,"3f290bcfcd5d44b496ad311894a3d733","http://www.house.state.tx.us/photos/members/2690.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0662","http://www.house.state.tx.us/members/member-page/?district=22","us","2010-06-19 03:51:42","state","","22","Democratic","","4022","lower",NA,NA
+"16","Dukes","2017-06-20 10:17:51","99973","Dawnna Dukes"," P.O. Box 2910
+Austin, TX 78701
+(512) 463-0506","Dawnna","","TXL000247","tx","5448","TXL000247",TRUE,"12db78b98177491386260875ac98403e","http://www.house.state.tx.us/photos/members/2665.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0506","http://www.house.state.tx.us/members/member-page/?district=46","us","2010-06-19 03:51:42","state","","46","Democratic","","1142","lower",NA,NA
+"17","Dutton","2017-06-20 10:15:30","111894","Harold Dutton Jr."," 8799 N. Loop East, Suite 305
+Houston, TX 77029
+(713) 692-9192","Harold","","TXL000249","tx","5498","TXL000249",TRUE,"4fab25eb20774aa5801be7d5d7235de3","http://www.house.state.tx.us/photos/members/2650.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0510","http://www.house.state.tx.us/members/member-page/?district=142","us","2010-06-19 03:51:42","state","V. Jr.","142","Democratic","","1163","lower",NA,NA
+"18","Elkins","2017-06-20 10:17:51","111901","Gary Elkins"," 9601 Jones Road, Suite 215
+Houston, TX 77065
+(832) 912-8380","Gary","","TXL000253","tx","5502","TXL000253",TRUE,"1ad2ad4dd8a44eef98074af3603b116b","http://www.house.state.tx.us/photos/members/2785.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0722","http://www.house.state.tx.us/members/member-page/?district=135","us","2010-06-19 03:51:42","state","","135","Republican","","1166","lower",NA,NA
+"19","Farrar","2017-06-20 10:17:51","99978","Jessica Farrar"," P.O. Box 30099
+Houston, TX 77249
+(713) 691-6912","Jessica","","TXL000257","tx","5503","TXL000257",TRUE,"9ee23bd1f791468286a21254ebf63f03","http://www.house.state.tx.us/photos/members/2810.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0620","http://www.house.state.tx.us/members/member-page/?district=148","us","2010-06-19 03:51:42","state","","148","Democratic","","1167","lower",NA,NA
+"20","Flynn","2017-06-20 10:17:50","111912","Dan Flynn"," P.O. Box 999
+Canton, TX 75103
+(903) 567-0921","Dan","","TXL000260","tx","9956","TXL000260",TRUE,"908813433b2d4d009a998cefcc3c1065","http://www.house.state.tx.us/photos/members/2850.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0880","http://www.house.state.tx.us/members/member-page/?district=2","us","2010-06-19 03:51:42","state","","2","Republican","","2523","lower",NA,NA
+"21","Geren","2017-06-20 10:17:51","99984","Charlie Geren"," 1011 Roberts Cutoff
+River Oaks, TX 76114
+(817) 738-8333","Charlie","","TXL000264","tx","49376","TXL000264",TRUE,"23942fd227f84facae5d3c4997a8c9dc","http://www.house.state.tx.us/photos/members/2945.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0610","http://www.house.state.tx.us/members/member-page/?district=99","us","2010-06-19 03:51:42","state","","99","Republican","","7030","lower",NA,NA
+"22","Giddings","2017-06-20 10:17:51","111931","Helen Giddings"," 1510 North Hampton Road, #340
+DeSoto, TX 75115
+(972) 224-6795","Helen","","TXL000265","tx","5506","TXL000265",TRUE,"ace57e3c0b4f4976abc19b494b6cf555","http://www.house.state.tx.us/photos/members/2935.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0953","http://www.house.state.tx.us/members/member-page/?district=109","us","2010-06-19 03:51:42","state","","109","Democratic","","1169","lower",NA,NA
+"23","Guillen","2017-06-20 10:17:51","111937","Ryan Guillen"," 100 North F.M. 3167, Suite 212
+Rio Grande City, TX 78582
+(956) 716-4838","Ryan","","TXL000268","tx","49248","TXL000268",TRUE,"68d49bea969c490fa52053e6868f9e5a","http://www.house.state.tx.us/photos/members/3045.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0416","http://www.house.state.tx.us/members/member-page/?district=31","us","2010-06-19 03:51:42","state","","31","Democratic","","7024","lower",NA,NA
+"24","Gutierrez","2017-06-20 10:17:51","111938","Roland Gutierrez"," 3319 Sidney Brooks,, Building 510, Suite 2
+San Antonio, TX 78235
+(210) 532-2758","Roland","","TXL000269","tx","106951","TXL000269",TRUE,"70e6b7324a324c2880d8de66b5c70b8b","http://www.house.state.tx.us/photos/members/3025.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0452","http://www.house.state.tx.us/members/member-page/?district=119","us","2010-06-19 03:51:42","state","","119","Democratic","","9818","lower",NA,NA
+"25","Hernandez","2017-06-20 10:17:51","111951","Ana Hernandez"," 1233 Mercury Drive
+Houston, TX 77029
+(713) 675-8596","Ana","","TXL000277","tx","59301","TXL000277",TRUE,"f91328864f534e9497c368727a4bd2a9","http://www.house.state.tx.us/photos/members/3155.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0614","http://www.house.state.tx.us/members/member-page/?district=143","us","2010-06-19 03:51:42","state","","143","Democratic","","8140","lower","",NA
+"26","Herrero","2017-06-20 10:17:51","111952","Abel Herrero",NA,"Abel","","TXL000278","tx","50002","TXL000278",TRUE,"97d57b22544b4c49bf4f1c9fb060eee9","http://www.house.state.tx.us/photos/members/3140.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=34","us","2010-06-19 03:51:42","state","","34","Democratic","","7072","lower",NA,NA
+"27","Howard","2017-06-20 10:17:51","111967","Donna Howard"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0631","Donna","","TXL000283","tx","59196","TXL000283",TRUE,"3e92add174ea487c90840f176cf03fa3","http://www.house.state.tx.us/photos/members/3310.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0631","http://www.house.state.tx.us/members/member-page/?district=48","us","2010-06-19 03:51:42","state","","48","Democratic","","8118","lower",NA,NA
+"28","Hunter","2017-06-20 10:17:51","111971","Todd Hunter"," 15217 S.P.I. Drive, #205
+Corpus Christi, TX 78418
+(361) 949-4603","Todd","","TXL000286","tx","5532","TXL000286",TRUE,"deb295fb213a4f6e900d5e46059d9074","http://www.house.state.tx.us/photos/members/3365.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0672","http://www.house.state.tx.us/members/member-page/?district=32","us","2010-06-19 03:51:42","state","","32","Republican","","1181","lower",NA,NA
+"29","Johnson","2017-06-20 10:17:51",NA,"Eric Johnson"," 1409 South Lamar St., Ste. 9
+Dallas, TX 75215
+(214) 565-5663","Eric","","TXL000289","tx","116968","TXL000289",TRUE,"fa8dbe9e95d34d06be48b85a820984fb","http://www.house.state.tx.us/photos/members/3345.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0586","http://www.house.state.tx.us/members/member-page/?district=100","us","2010-06-19 03:51:42","state","","100","Democratic","",NA,"lower",NA,NA
+"30","King","2017-06-20 10:17:51","112336","Tracy King"," 1995 Williams Street
+Eagle Pass, TX 78852
+(830) 773-0860","Tracy O.","","TXL000294","tx","5540","TXL000294",TRUE,"1a8493ae3052435689d8cf9814d78a9b","http://www.house.state.tx.us/photos/members/3465.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0194","http://www.house.state.tx.us/members/member-page/?district=80","us","2010-06-19 03:51:42","state","","80","Democratic","","1186","lower",NA,NA
+"31","King","2017-06-20 10:17:50","100011","Phil King"," 2110 Fort Worth Hwy.
+Weatherford, TX 76086
+(817) 596-4796","Phil","","TXL000295","tx","25435","TXL000295",TRUE,"651993e8729047bfadd81a0cdb716a18","http://www.house.state.tx.us/photos/members/3470.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0738","http://www.house.state.tx.us/members/member-page/?district=61","us","2010-06-19 03:51:42","state","","61","Republican","","4026","lower",NA,NA
+"32","Laubenberg","2017-06-20 10:17:51","111999","Jodie Laubenberg"," 206 North Murphy Road
+Murphy, TX 75094
+(972) 424-6810","Jodie","","TXL000299","tx","50001","TXL000299",TRUE,"cc4eea7ceac545d494e1e2b0a96996f7","http://www.house.state.tx.us/photos/members/3540.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0186","http://www.house.state.tx.us/members/member-page/?district=89","us","2010-06-19 03:51:42","state","","89","Republican","","7071","lower",NA,NA
+"33","Martinez","2017-06-20 10:17:51","112016","Armando Martinez"," 800 West Railroad Street,, Rm H-111
+Weslaco, TX 78596
+(956) 447-9473","Armando ""Mando""","","TXL000308","tx","49304","TXL000308",TRUE,"6af7b50713124edbbdef0479a44b82bc","http://www.house.state.tx.us/photos/members/3780.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0530","http://www.house.state.tx.us/members/member-page/?district=39","us","2010-06-19 03:51:42","state","","39","Democratic","","7026","lower",NA,NA
+"34","Moody","2017-06-20 10:17:51","100029","Joseph Moody",NA,"Joe","","TXL000317","tx","102266","TXL000317",TRUE,"b1d31d6bc75b4cfcbb964848764539e4","http://www.house.state.tx.us/photos/members/3850.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=78","us","2010-06-19 03:51:42","state","","78","Democratic","","9293","lower",NA,NA
+"35","Morrison","2017-06-20 10:17:51","112041","Geanie Morrison"," 1908 North Laurent,, Suite 500
+Victoria, TX 77901
+(361) 572-0196","Geanie W.","","TXL000318","tx","25497","TXL000318",TRUE,"f186aa3d2f01495d8803d126902d75c9","http://www.house.state.tx.us/photos/members/3870.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0456","http://www.house.state.tx.us/members/member-page/?district=30","us","2010-06-19 03:51:42","state","","30","Republican","","4030","lower",NA,NA
+"36","Oliveira","2017-06-20 10:15:30","100034","Rene Oliveira"," 855 West Price Road, Suite 22
+Brownsville, TX 78520
+(956) 542-1828","René O.","","TXL000320","tx","5560","TXL000320",TRUE,"a207ac5f95b44b2d9ab97c0272f80df9","http://www.house.state.tx.us/photos/members/3880.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0640","http://www.house.state.tx.us/members/member-page/?district=37","us","2010-06-19 03:51:42","state","","37","Democratic","","1197","lower",NA,NA
+"37","Parker","2017-06-20 10:17:51","112060","Tan Parker"," 800 Parker Square, Suite 245
+Flower Mound, TX 75028
+(972) 724-8477","Tan","","TXL000325","tx","59370","TXL000325",TRUE,"4601e56aac2b4ede974d6fdc0983fd2a","http://www.house.state.tx.us/photos/members/4090.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0688","http://www.house.state.tx.us/members/member-page/?district=63","us","2010-06-19 03:51:42","state","","63","Republican","","8153","lower",NA,NA
+"38","Phillips","2017-06-20 10:17:51","112067","Larry Phillips"," 421 North Crockett
+Sherman, TX 75090
+(903) 891-7297","Larry","","TXL000329","tx","49937","TXL000329",TRUE,"a8a76e75150949818a26d8aa2f5e1f63","http://www.house.state.tx.us/photos/members/4160.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0297","http://www.house.state.tx.us/members/member-page/?district=62","us","2010-06-19 03:51:42","state","","62","Republican","","7066","lower",NA,NA
+"39","Pickett","2017-06-20 10:15:30","112069","Joe Pickett"," 1790 Lee Trevino,, #307
+El Paso, TX 79936
+(915) 590-4349","Joe C.","","TXL000331","tx","5563","TXL000331",TRUE,"9398fd8c4d594f9b9f0af7383cc3df30","http://www.house.state.tx.us/photos/members/4180.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0596","http://www.house.state.tx.us/members/member-page/?district=79","us","2010-06-19 03:51:42","state","","79","Democratic","","1198","lower",NA,NA
+"40","Raymond","2017-06-20 10:17:51","112080","Richard Peña Raymond"," 1110 Houston St.,, Third Floor
+Laredo, TX 78040
+(956) 753-7722","Richard Peña","","TXL000334","tx","5571","TXL000334",TRUE,"eba8da00fdcd4ead93a169e21c23c33d","http://www.house.state.tx.us/photos/members/4215.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0558","http://www.house.state.tx.us/members/member-page/?district=42","us","2010-06-19 03:51:42","state","","42","Democratic","","1201","lower","",NA
+"41","Rodriguez","2017-06-20 10:17:51","112087","Eddie Rodriguez"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0674","Eddie","","TXL000338","tx","49637","TXL000338",TRUE,"52bae7ea9df949e6b7a431d5444db201","http://www.house.state.tx.us/photos/members/4270.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0674","http://www.house.state.tx.us/members/member-page/?district=51","us","2010-06-19 03:51:42","state","","51","Democratic","","7045","lower",NA,NA
+"42","Smithee","2017-06-20 10:17:51","112105","John Smithee"," 320 S. Polk, 1st Floor,, Lobby Box 28
+Amarillo, TX 79101
+(806) 372-3327","John T.","","TXL000344","tx","5581","TXL000344",TRUE,"a902eb4f71aa42f595e912b72425ac04","http://www.house.state.tx.us/photos/members/4530.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0702","http://www.house.state.tx.us/members/member-page/?district=86","us","2010-06-19 03:51:42","state","","86","Republican","","1203","lower",NA,NA
+"43","Straus","2017-06-20 10:15:30","112113","Joe Straus"," 7373 Broadway, Suite 202A
+San Antonio, TX 78209
+(210) 828-4411","Joe","","TXL000347","tx","49917","TXL000347",TRUE,"86be597536624f9e98eacf50981f50e8","http://www.house.state.tx.us/photos/members/4565.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-1000","http://www.house.state.tx.us/members/member-page/?district=121","us","2010-06-19 03:51:42","state","","121","Republican","","7064","lower",NA,NA
+"44","Thompson","2017-06-20 10:17:51","112122","Senfronia Thompson"," 10527 Homestead Road
+Houston, TX 77016
+(713) 633-3390","Senfronia","","TXL000352","tx","8012","TXL000352",TRUE,"834e37faaa95458b968a4fb721926c9d","http://www.house.state.tx.us/photos/members/4630.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0720","http://www.house.state.tx.us/members/member-page/?district=141","us","2010-06-19 03:51:42","state","","141","Democratic","","2049","lower",NA,NA
+"45","Turner","2017-06-20 10:17:51","112128","Chris Turner",NA,"Chris","","TXL000354","tx","102270","TXL000354",TRUE,"07f826f8e5ff4b6ebf695774a7b5f8ce","http://www.house.state.tx.us/photos/members/4680.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=101","us","2010-06-19 03:51:42","state","","101","Democratic","","9295","lower",NA,NA
+"46","Vo","2017-06-20 10:17:51","112139","Hubert Vo"," 7474 South Kirkwood, Suite 106
+Houston, TX 77072
+(281) 988-0212","Hubert","","TXL000359","tx","49576","TXL000359",TRUE,"60de2fe921114d62bf726502f4126746","http://www.house.state.tx.us/photos/members/4900.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0568","http://www.house.state.tx.us/members/member-page/?district=149","us","2010-06-19 03:51:42","state","","149","Democratic","","7039","lower",NA,NA
+"47","Walle","2017-06-20 10:17:51","100069","Armando Walle"," 150 W. Parker Rd., Suite 700
+Houston, TX 77076
+(713) 694-8620","Armando","","TXL000360","tx","102289","TXL000360",TRUE,"7a582fbdca7c4ad890d5bbb84e7d1082","http://www.house.state.tx.us/photos/members/4930.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0924","http://www.house.state.tx.us/members/member-page/?district=140","us","2010-06-19 03:51:42","state","","140","Democratic","","9299","lower",NA,NA
+"48","Zerwas","2017-06-20 10:17:51","112158","John Zerwas"," P.O. Box 434
+Simonton, TX 77476
+(281) 533-9042","John","","TXL000363","tx","56718","TXL000363",TRUE,"1491b7da52fb43a396a24d82c9fbe12b","http://www.house.state.tx.us/photos/members/5170.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0657","http://www.house.state.tx.us/members/member-page/?district=28","us","2010-06-19 03:51:42","state","","28","Republican","","7805","lower",NA,NA
+"49","Anderson","2017-06-20 10:17:51",NA,"Rodney Anderson"," P.O. Box 2910
+Austin, TX 78768","Rodney","","TXL000370","tx","117471","TXL000370",TRUE,"bdd473b540274af38046b19a727dc1d1","http://www.house.state.tx.us/photos/members/2215.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0694","http://www.house.state.tx.us/members/member-page/?district=105","us","2011-01-14 22:24:08","state","","105","Republican","",NA,"lower",NA,NA
+"50","Burkett","2017-06-20 10:17:51",NA,"Cindy Burkett"," 18601 LBJ Freeway, Ste. 401
+Mesquite, TX 75150
+(972) 681-6311","Cindy","","TXL000373","tx","117468","TXL000373",TRUE,"499bfd97eedf4c698b876f1ca8088d28","http://www.house.state.tx.us/photos/members/2195.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0464","http://www.house.state.tx.us/members/member-page/?district=113","us","2011-01-14 22:24:08","state","","113","Republican","",NA,"lower",NA,NA
+"51","Davis","2017-06-20 10:17:51",NA,"Sarah Davis"," P.O. Box 2910
+Austin, TX 78768","Sarah","","TXL000378","tx","117479","TXL000378",TRUE,"fa4225e7b2fa42be81d774d1a07f7a72","http://www.house.state.tx.us/photos/members/2305.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0389","http://www.house.state.tx.us/members/member-page/?district=134","us","2011-01-14 22:24:08","state","","134","Republican","",NA,"lower",NA,NA
+"52","Frullo","2017-06-20 10:17:51",NA,"John Frullo"," 4601 50th St, Suite 216
+Lubbock, TX 79414
+(806) 763-2366","John","","TXL000379","tx","117461","TXL000379",TRUE,"2f51702577de4ea5af3b284ae81adae7","http://www.house.state.tx.us/photos/members/2005.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0676","http://www.house.state.tx.us/members/member-page/?district=84","us","2011-01-14 22:24:08","state","","84","Republican","",NA,"lower",NA,NA
+"53","Gonzales","2017-06-20 10:17:51",NA,"Larry Gonzales"," 1801 East Old Settlers Blvd.
+Round Rock, TX 78664","Larry","","TXL000381","tx","117456","TXL000381",TRUE,"b4aa620887ae49b688c6b532a8f12afb","http://www.house.state.tx.us/photos/members/2080.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0670","http://www.house.state.tx.us/members/member-page/?district=52","us","2011-01-14 22:24:08","state","","52","Republican","",NA,"lower",NA,NA
+"54","Huberty","2017-06-20 10:17:51",NA,"Dan Huberty"," 4501 Magnolia Cove Dr. #201
+Kingwood, TX 77345
+(281) 359-2141","Dan","","TXL000385","tx","117477","TXL000385",TRUE,"f119389eadda4b8191b2bd7b2c1b1500","http://www.house.state.tx.us/photos/members/2285.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0520","http://www.house.state.tx.us/members/member-page/?district=127","us","2011-01-14 22:24:08","state","","127","Republican","",NA,"lower",NA,NA
+"55","Isaac","2017-06-20 10:17:50",NA,"Jason Isaac"," 100 Commons  Roads #7-125
+Dripping Springs, TX 78620
+(512) 850-5524","Jason","","TXL000386","tx","116946","TXL000386",TRUE,"f2645a08021044a2861b0241a4ccfda3","http://www.house.state.tx.us/photos/members/2070.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0647","http://www.house.state.tx.us/members/member-page/?district=45","us","2011-01-14 22:24:08","state","","45","Republican","",NA,"lower",NA,NA
+"56","Kuempel","2017-06-20 10:17:51",NA,"John Kuempel"," 523 E. Donegan
+Seguin, TX 78155
+(830) 379-8732","John","","TXL000387","tx","128461","TXL000387",TRUE,"a83ceff11cec4ea49e20e7377f343233","http://www.house.state.tx.us/photos/members/2310.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0602","http://www.house.state.tx.us/members/member-page/?district=44","us","2011-01-14 22:24:08","state","","44","Republican","",NA,"lower",NA,NA
+"57","Larson","2017-06-20 10:17:51",NA,"Lyle Larson"," 14607 San Pedro, Ste. 180
+San Antonio, TX 78232","Lyle","","TXL000389","tx","98049","TXL000389",TRUE,"bb586f9962da4e7a92f30fc16416fbf1","http://www.house.state.tx.us/photos/members/2245.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0646","http://www.house.state.tx.us/members/member-page/?district=122","us","2011-01-14 22:24:08","state","","122","Republican","",NA,"lower",NA,NA
+"58","Lozano","2017-06-20 10:17:51",NA,"J. M. Lozano"," 635 East King Ave.
+Kingsville, TX 78363
+(361) 595-1550","J. M.","","TXL000391","tx","116981","TXL000391",TRUE,"a8228ad890664efb9a137ecf152c56ad","http://www.house.state.tx.us/photos/members/2065.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0463","http://www.house.state.tx.us/members/member-page/?district=43","us","2011-01-14 22:24:08","state","","43","Republican","",NA,"lower",NA,NA
+"59","Muñoz","2017-06-20 10:17:51",NA,"Sergio Muñoz, Jr."," 121 E. Tom Landry
+Mission, TX 78572
+(956) 584-8999","Sergio","","TXL000396","tx","5424","TXL000396",TRUE,"1629890e31d94a17b9ca27e04cda4e57","http://www.house.state.tx.us/photos/members/2060.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0704","http://www.house.state.tx.us/members/member-page/?district=36","us","2011-01-14 22:24:08","state","Jr.","36","Democratic","",NA,"lower","",NA
+"60","Murphy","2017-06-20 10:17:50",NA,"Jim Murphy"," P.O. Box 2910
+Austin, TX 78768","Jim","","TXL000397","tx","57985","TXL000397",TRUE,"b405cee86e554e32beb446ff11874996","http://www.house.state.tx.us/photos/members/3875.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0514","http://www.house.state.tx.us/members/member-page/?district=133","us","2011-01-14 22:24:08","state","","133","Republican","",NA,"lower",NA,NA
+"61","Price","2017-06-20 10:17:50",NA,"Four Price"," 600 S. Tyler Lobby Box 12013
+Amarillo, TX 79105
+(806) 374-8787","Four","","TXL000402","tx","116959","TXL000402",TRUE,"049bf99735564aa2abd439664bc7087b","http://www.house.state.tx.us/photos/members/2185.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0470","http://www.house.state.tx.us/members/member-page/?district=87","us","2011-01-14 22:24:08","state","","87","Republican","",NA,"lower",NA,NA
+"62","Reynolds","2017-06-20 10:17:51",NA,"Ron Reynolds"," P.O. Box 2910
+Austin, TX 78768","Ron","","TXL000404","tx","102294","TXL000404",TRUE,"d1109a2a70864db6a1f4f5338a643eb6","http://www.house.state.tx.us/photos/members/2040.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0494","http://www.house.state.tx.us/members/member-page/?district=27","us","2011-01-14 22:24:08","state","","27","Democratic","",NA,"lower",NA,NA
+"63","White","2017-06-20 10:17:51",NA,"James White"," 2915 Atkinson Dr.
+Lufkin, TX 75901","James","","TXL000410","tx","116939","TXL000410",TRUE,"40643dce2541496eb30c0c8851d573fc","http://www.house.state.tx.us/photos/members/2030.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0490","http://www.house.state.tx.us/members/member-page/?district=19","us","2011-01-14 22:24:08","state","","19","Republican","",NA,"lower",NA,NA
+"64","Workman","2017-06-20 10:17:51",NA,"Paul Workman"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0652","Paul","","TXL000411","tx","116948","TXL000411",TRUE,"719c281b01e2429d87801e323475a9f5","http://www.house.state.tx.us/photos/members/2075.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0652","http://www.house.state.tx.us/members/member-page/?district=47","us","2011-01-14 22:24:08","state","","47","Republican","",NA,"lower",NA,NA
+"65","Zedler","2017-06-20 10:17:50",NA,"William Zedler"," 5840 West Interstate 20,, Suite #110
+Arlington, TX 76017
+(817) 483-1885","Bill","","TXL000412","tx","49612","TXL000412",TRUE,"9aeb3d3d751d408e8008de37a1d48740","http://www.house.state.tx.us/photos/members/5150.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0374","http://www.house.state.tx.us/members/member-page/?district=96","us","2011-01-14 22:24:08","state","","96","Republican","",NA,"lower",NA,NA
+"66","Raney","2017-06-20 10:17:51",NA,"Raney, John"," 4103 S. Texas Ave.,, Ste. 103
+Bryan, TX 77802
+(979) 260-5040","John","","TXL000415","tx",NA,"TXL000415",TRUE,"1723b970eeb94ffe8a0c02814b0d7d84","http://www.house.state.tx.us/photos/members/2315.jpg"," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0698","http://www.house.state.tx.us/members/member-page/?district=14","us","2012-01-25 00:54:58","state","","14","Republican","",NA,"lower",NA,NA
+"67","Ashby","2017-06-20 10:17:51",NA,"Ashby, Trent",NA,"Trent","","TXL000424","tx",NA,"TXL000424",TRUE,"76b3814890254ab1abb8afa24bfde96a","http://www.house.state.tx.us/photos/members/2330.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=57",NA,"2013-01-09 00:29:35",NA,"","57","Republican","",NA,"lower",NA,NA
+"68","Bell","2017-06-20 10:17:51",NA,"Bell, Cecil",NA,"Cecil","","TXL000425","tx",NA,"TXL000425",TRUE,"ed6de76166284c94ae6aaf51d3d61fec","http://www.house.state.tx.us/photos/members/2335.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=3",NA,"2013-01-09 00:29:35",NA,"","3","Republican","",NA,"lower",NA,NA
+"69","Bonnen","2017-06-20 10:17:51",NA,"Bonnen, Greg",NA,"Greg","","TXL000426","tx",NA,"TXL000426",TRUE,"426a21370ec84deda645ed2037d5bff0","http://www.house.state.tx.us/photos/members/2875.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=24",NA,"2013-01-09 00:29:35",NA,"","24","Republican","",NA,"lower",NA,NA
+"70","Canales","2017-06-20 10:17:51",NA,"Canales, Terry",NA,"Terry","","TXL000428","tx",NA,"TXL000428",TRUE,"9b7163284b014da19235329720f92700","http://www.house.state.tx.us/photos/members/2340.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=40",NA,"2013-01-09 00:29:35",NA,"","40","Democratic","",NA,"lower",NA,NA
+"71","Capriglione","2017-06-20 10:17:51",NA,"Capriglione, Giovanni",NA,"Giovanni","","TXL000429","tx",NA,"TXL000429",TRUE,"92a7306fe3aa41e08b66cc80019ed80f","http://www.house.state.tx.us/photos/members/2345.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=98",NA,"2013-01-09 00:29:35",NA,"","98","Republican","",NA,"lower",NA,NA
+"72","Clardy","2017-06-20 10:17:51",NA,"Clardy, Travis",NA,"Travis","","TXL000430","tx",NA,"TXL000430",TRUE,"df24c72316064127a41ec7e9a2d89a86","http://www.house.state.tx.us/photos/members/2355.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=11",NA,"2013-01-09 00:29:35",NA,"","11","Republican","",NA,"lower",NA,NA
+"73","Collier","2017-06-20 10:17:51",NA,"Collier, Nicole",NA,"Nicole","","TXL000431","tx",NA,"TXL000431",TRUE,"5c7a8484d7df41e3be820c55fdcb0c81","http://www.house.state.tx.us/photos/members/2360.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=95",NA,"2013-01-09 00:29:35",NA,"","95","Democratic","",NA,"lower",NA,NA
+"74","Dale","2017-06-20 10:17:51",NA,"Dale, Tony",NA,"Tony","","TXL000433","tx",NA,"TXL000433",TRUE,NA,"http://www.house.state.tx.us/photos/members/2370.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=136",NA,"2013-01-09 00:29:35",NA,"","136","Republican","",NA,"lower",NA,NA
+"75","Fallon","2017-06-20 10:17:51",NA,"Fallon, Pat",NA,"Pat","","TXL000434","tx",NA,"TXL000434",TRUE,"452a66097d964b119227d4b25f338476","http://www.house.state.tx.us/photos/members/2375.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=106",NA,"2013-01-09 00:29:35",NA,"","106","Republican","",NA,"lower",NA,NA
+"76","Frank","2017-06-20 10:17:51",NA,"Frank, James",NA,"James","","TXL000436","tx",NA,"TXL000436",TRUE,"e34553c43e0d4074ab165561a1985387","http://www.house.state.tx.us/photos/members/2385.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=69",NA,"2013-01-09 00:29:35",NA,"","69","Republican","",NA,"lower",NA,NA
+"77","Goldman","2017-06-20 10:17:51",NA,"Goldman, Craig",NA,"Craig","","TXL000437","tx",NA,"TXL000437",TRUE,"8c11a1c4d84a4c0999f5222430771477","http://www.house.state.tx.us/photos/members/2395.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=97",NA,"2013-01-09 00:29:35",NA,"","97","Republican","",NA,"lower",NA,NA
+"78","González","2017-06-20 10:15:30",NA,"González, Mary",NA,"Mary","","TXL000438","tx",NA,"TXL000438",TRUE,"","http://www.house.state.tx.us/photos/members/2410.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=75",NA,"2013-01-09 00:29:35",NA,"","75","Democratic","",NA,"lower","",NA
+"79","Guerra","2017-06-20 10:15:30",NA,"Guerra, Bobby",NA,"Bobby","","TXL000439","tx",NA,"TXL000439",TRUE,NA,"http://www.house.state.tx.us/photos/members/2325.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=41",NA,"2013-01-09 00:29:35",NA,"","41","Democratic","",NA,"lower",NA,NA
+"80","Kacal","2017-06-20 10:15:30",NA,"Kacal, Kyle",NA,"Kyle","","TXL000441","tx",NA,"TXL000441",TRUE,"2e7bb380810c48a6b30d60132046fb59","http://www.house.state.tx.us/photos/members/2445.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=12",NA,"2013-01-09 00:29:35",NA,"","12","Republican","",NA,"lower",NA,NA
+"81","King","2017-06-20 10:17:51",NA,"King, Ken",NA,"Ken","","TXL000442","tx",NA,"TXL000442",TRUE,"b7f689f1a9294cbab74c55212aed0732","http://www.house.state.tx.us/photos/members/2455.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=88",NA,"2013-01-09 00:29:35",NA,"","88","Republican","",NA,"lower",NA,NA
+"82","Klick","2017-06-20 10:17:51",NA,"Klick, Stephanie",NA,"Stephanie","","TXL000443","tx",NA,"TXL000443",TRUE,"5b1b0c8765774dc58387b3eabb3bdf58","http://www.house.state.tx.us/photos/members/2460.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=91",NA,"2013-01-09 00:29:35",NA,"","91","Republican","",NA,"lower",NA,NA
+"83","Krause","2017-06-20 10:17:51",NA,"Krause, Matt",NA,"Matt","","TXL000444","tx",NA,"TXL000444",TRUE,"337f01f7df0e4f0bae070501a06f94ad","http://www.house.state.tx.us/photos/members/2465.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=93",NA,"2013-01-09 00:29:35",NA,"","93","Republican","",NA,"lower",NA,NA
+"84","Leach","2017-06-20 10:17:50",NA,"Leach, Jeff",NA,"Jeff","","TXL000445","tx",NA,"TXL000445",TRUE,"12bf628e3e634ff4b2b3cbd811ada35f","http://www.house.state.tx.us/photos/members/2475.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=67",NA,"2013-01-09 00:29:36",NA,"","67","Republican","",NA,"lower",NA,NA
+"85","Longoria","2017-06-20 10:17:51",NA,"Longoria, Oscar",NA,"Oscar","","TXL000446","tx",NA,"TXL000446",TRUE,"8816d7ef6d0a4e5391b625a4e0c94974","http://www.house.state.tx.us/photos/members/2485.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=35",NA,"2013-01-09 00:29:36",NA,"","35","Democratic","",NA,"lower",NA,NA
+"86","Miller","2017-06-20 10:17:51",NA,"Miller, Rick",NA,"Rick","","TXL000449","tx",NA,"TXL000449",TRUE,"69d2cf54c2a742b89806f407fafc5584","http://www.house.state.tx.us/photos/members/2500.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=26",NA,"2013-01-09 00:29:36",NA,"","26","Republican","",NA,"lower",NA,NA
+"87","Nevárez","2017-06-20 10:17:51",NA,"Nevárez, Poncho",NA,"Poncho","","TXL000452","tx",NA,"TXL000452",TRUE,NA,"http://www.house.state.tx.us/photos/members/2505.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=74",NA,"2013-01-09 00:29:36",NA,"","74","Democratic","",NA,"lower",NA,NA
+"88","Paddie","2017-06-20 10:17:51",NA,"Paddie, Chris",NA,"Chris","","TXL000454","tx",NA,"TXL000454",TRUE,"75897327fdf54a809c3affe67e221997","http://www.house.state.tx.us/photos/members/2515.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=9",NA,"2013-01-09 00:29:36",NA,"","9","Republican","",NA,"lower",NA,NA
+"89","Rodriguez","2017-06-20 10:17:51",NA,"Rodriguez, Justin",NA,"Justin","","TXL000457","tx",NA,"TXL000457",TRUE,"6290452b5a9b49ec9eab79cd51268ccc","http://www.house.state.tx.us/photos/members/2550.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=125",NA,"2013-01-09 00:29:36",NA,"","125","Democratic","",NA,"lower",NA,NA
+"90","Rose","2017-06-20 10:17:51",NA,"Rose, Toni",NA,"Toni","","TXL000458","tx",NA,"TXL000458",TRUE,"8028eab7a17f4c52af9a1b9c5842cca1","http://www.house.state.tx.us/photos/members/2555.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=110",NA,"2013-01-09 00:29:36",NA,"","110","Democratic","",NA,"lower",NA,NA
+"91","Sanford","2017-06-20 10:17:51",NA,"Sanford, Scott",NA,"Scott","","TXL000459","tx",NA,"TXL000459",TRUE,"9bf01871fc12432986a985c2556b125f","http://www.house.state.tx.us/photos/members/2715.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=70",NA,"2013-01-09 00:29:36",NA,"","70","Republican","",NA,"lower",NA,NA
+"92","Schaefer","2017-06-20 10:17:51",NA,"Schaefer, Matt",NA,"Matt","","TXL000460","tx",NA,"TXL000460",TRUE,"6cbde1069dd64126af7e5013b3e3415b","http://www.house.state.tx.us/photos/members/2725.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=6",NA,"2013-01-09 00:29:36",NA,"","6","Republican","",NA,"lower",NA,NA
+"93","Sheffield","2017-06-20 10:17:51",NA,"Sheffield, J. D.",NA,"J. D.","","TXL000461","tx",NA,"TXL000461",TRUE,NA,"http://www.house.state.tx.us/photos/members/2735.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=59",NA,"2013-01-09 00:29:36",NA,"","59","Republican","",NA,"lower",NA,NA
+"94","Simmons","2017-06-20 10:17:51",NA,"Simmons, Ron",NA,"Ron","","TXL000462","tx",NA,"TXL000462",TRUE,"a081eb3f888c4dc3844f2767fde8258b","http://www.house.state.tx.us/photos/members/2740.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=65",NA,"2013-01-09 00:29:36",NA,"","65","Republican","",NA,"lower",NA,NA
+"95","Springer","2017-06-20 10:17:50",NA,"Springer, Drew",NA,"Drew","","TXL000463","tx",NA,"TXL000463",TRUE,"6880047b500b4233af75b9ffb70ec615","http://www.house.state.tx.us/photos/members/2745.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=68",NA,"2013-01-09 00:29:36",NA,"","68","Republican","",NA,"lower",NA,NA
+"96","Stephenson","2017-06-20 10:17:51",NA,"Stephenson, Phil",NA,"Phil","","TXL000464","tx",NA,"TXL000464",TRUE,NA,"http://www.house.state.tx.us/photos/members/2755.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=85",NA,"2013-01-09 00:29:36",NA,"","85","Republican","",NA,"lower",NA,NA
+"97","Stickland","2017-06-20 10:17:51",NA,"Stickland, Jonathan",NA,"Jonathan","","TXL000465","tx",NA,"TXL000465",TRUE,"7ddd8ca8cb39479b9a93f80cbf5f66e5","http://www.house.state.tx.us/photos/members/2765.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=92",NA,"2013-01-09 00:29:36",NA,"","92","Republican","",NA,"lower",NA,NA
+"98","Thompson","2017-06-20 10:17:51",NA,"Thompson, Ed",NA,"Ed","","TXL000466","tx",NA,"TXL000466",TRUE,"7d93718f8e8f45a194822c016dd8a175","http://www.house.state.tx.us/photos/members/2815.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=29",NA,"2013-01-09 00:29:36",NA,"","29","Republican","",NA,"lower",NA,NA
+"99","Villalba","2017-06-20 10:17:51",NA,"Villalba, Jason",NA,"Jason","","TXL000470","tx",NA,"TXL000470",TRUE,"9f74b16f68a24c9db43dafa0527cab62","http://www.house.state.tx.us/photos/members/2855.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=114",NA,"2013-01-09 00:29:36",NA,"","114","Republican","",NA,"lower",NA,NA
+"100","Wu","2017-06-20 10:17:51",NA,"Wu, Gene",NA,"Gene","","TXL000472","tx",NA,"TXL000472",TRUE,"16aaee0b38954d69a22a0768216ee87a","http://www.house.state.tx.us/photos/members/2865.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=137",NA,"2013-01-09 00:29:36",NA,"","137","Democratic","",NA,"lower",NA,NA
+"101","Israel","2017-06-20 10:17:51",NA,"Israel, Celia",NA,"Celia","","TXL000475","tx",NA,"TXL000475",TRUE,NA,"http://www.house.state.tx.us/photos/members/2415.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=50",NA,"2014-02-19 00:42:39",NA,"","50","Democratic","",NA,"lower",NA,NA
+"102","Murr","2017-06-20 10:15:30",NA,"Murr, Andrew",NA,"Andrew","","TXL000480","tx",NA,"TXL000480",TRUE,NA,"http://www.house.state.tx.us/photos/members/2965.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=53",NA,"2015-01-14 00:53:27",NA,"","53","Republican","",NA,"lower",NA,NA
+"103","Wray","2017-06-20 10:17:51",NA,"Wray, John",NA,"John","","TXL000481","tx",NA,"TXL000481",TRUE,NA,"http://www.house.state.tx.us/photos/members/2890.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=10",NA,"2015-01-14 00:53:27",NA,"","10","Republican","",NA,"lower",NA,NA
+"104","Paul","2017-06-20 10:17:51",NA,"Paul, Dennis",NA,"Dennis","","TXL000484","tx",NA,"TXL000484",TRUE,NA,"http://www.house.state.tx.us/photos/members/3090.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=129",NA,"2015-01-14 00:53:27",NA,"","129","Republican","",NA,"lower",NA,NA
+"105","Keough","2017-06-20 10:17:51",NA,"Keough, Mark",NA,"Mark","","TXL000485","tx",NA,"TXL000485",TRUE,NA,"http://www.house.state.tx.us/photos/members/2895.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=15",NA,"2015-01-14 00:53:27",NA,"","15","Republican","",NA,"lower",NA,NA
+"106","Landgraf","2017-06-20 10:17:51",NA,"Landgraf, Brooks",NA,"Brooks","","TXL000490","tx",NA,"TXL000490",TRUE,NA,"http://www.house.state.tx.us/photos/members/3040.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=81",NA,"2015-01-14 00:53:27",NA,"","81","Republican","",NA,"lower",NA,NA
+"107","Koop","2017-06-20 10:17:51",NA,"Koop, Linda",NA,"Linda","","TXL000491","tx",NA,"TXL000491",TRUE,NA,"http://www.house.state.tx.us/photos/members/3070.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=102",NA,"2015-01-14 00:53:27",NA,"","102","Republican","",NA,"lower",NA,NA
+"108","Rinaldi","2017-06-20 10:17:51",NA,"Rinaldi, Matt",NA,"Matt","","TXL000493","tx",NA,"TXL000493",TRUE,"ebcc264166294762834c5aeb9823ab4f","http://www.house.state.tx.us/photos/members/3080.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=115",NA,"2015-01-14 00:53:27",NA,"","115","Republican","",NA,"lower",NA,NA
+"109","VanDeaver","2017-06-20 10:17:51",NA,"VanDeaver, Gary",NA,"Gary","","TXL000494","tx",NA,"TXL000494",TRUE,NA,"http://www.house.state.tx.us/photos/members/2540.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=1",NA,"2015-01-14 00:53:27",NA,"","1","Republican","",NA,"lower",NA,NA
+"110","Shaheen","2017-06-20 10:17:51",NA,"Shaheen, Matt",NA,"Matt","","TXL000495","tx",NA,"TXL000495",TRUE,NA,"http://www.house.state.tx.us/photos/members/2995.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=66",NA,"2015-01-14 00:53:27",NA,"","66","Republican","",NA,"lower",NA,NA
+"111","Phelan","2017-06-20 10:17:51",NA,"Phelan, Dade",NA,"Dade","","TXL000496","tx",NA,"TXL000496",TRUE,NA,"http://www.house.state.tx.us/photos/members/2905.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=21",NA,"2015-01-14 00:53:27",NA,"","21","Republican","",NA,"lower",NA,NA
+"112","Blanco","2017-06-20 10:17:51",NA,"Blanco, César",NA,"César","","TXL000497","tx",NA,"TXL000497",TRUE,"","http://www.house.state.tx.us/photos/members/3015.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=76",NA,"2015-01-14 00:53:27",NA,"","76","Democratic","",NA,"lower","",NA
+"113","Tinderholt","2017-06-20 10:17:51",NA,"Tinderholt, Tony",NA,"Tony","","TXL000499","tx",NA,"TXL000499",TRUE,NA,"http://www.house.state.tx.us/photos/members/3065.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=94",NA,"2015-01-14 00:53:27",NA,"","94","Republican","",NA,"lower",NA,NA
+"114","Burrows","2017-06-20 10:17:51",NA,"Burrows, Dustin",NA,"Dustin","","TXL000500","tx",NA,"TXL000500",TRUE,NA,"http://www.house.state.tx.us/photos/members/3055.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=83",NA,"2015-01-14 00:53:27",NA,"","83","Republican","",NA,"lower",NA,NA
+"115","Metcalf","2017-06-20 10:17:50",NA,"Metcalf, Will",NA,"Will","","TXL000502","tx",NA,"TXL000502",TRUE,NA,"http://www.house.state.tx.us/photos/members/2900.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=16",NA,"2015-01-14 00:53:27",NA,"","16","Republican","",NA,"lower",NA,NA
+"116","Meyer","2017-06-20 10:17:51",NA,"Meyer, Morgan",NA,"Morgan","","TXL000504","tx",NA,"TXL000504",TRUE,NA,"http://www.house.state.tx.us/photos/members/3075.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=108",NA,"2015-01-14 00:53:28",NA,"","108","Republican","",NA,"lower",NA,NA
+"117","Faircloth","2017-06-20 10:17:51",NA,"Faircloth, Wayne",NA,"Wayne","","TXL000506","tx",NA,"TXL000506",TRUE,"a8e3da838ac644518db78bacdc8f6439","http://www.house.state.tx.us/photos/members/2955.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=23",NA,"2015-01-14 00:53:28",NA,"","23","Republican","",NA,"lower",NA,NA
+"118","Burns","2017-06-20 10:17:51",NA,"Burns, DeWayne",NA,"DeWayne","","TXL000507","tx",NA,"TXL000507",TRUE,NA,"http://www.house.state.tx.us/photos/members/2975.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=58",NA,"2015-01-14 00:53:28",NA,"","58","Republican","",NA,"lower",NA,NA
+"119","Romero","2017-06-20 10:15:30",NA,"Romero, Jr., Ramon",NA,"Jr., Ramon","","TXL000509","tx",NA,"TXL000509",TRUE,NA,"http://www.house.state.tx.us/photos/members/3060.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=90",NA,"2015-01-14 00:53:28",NA,"","90","Democratic","",NA,"lower","",NA
+"120","Schofield","2017-06-20 10:17:51",NA,"Schofield, Mike",NA,"Mike","","TXL000510","tx",NA,"TXL000510",TRUE,NA,"http://www.house.state.tx.us/photos/members/3095.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=132",NA,"2015-01-14 00:53:28",NA,"","132","Republican","",NA,"lower",NA,NA
+"121","Cyrier","2017-06-20 10:15:30",NA,"Cyrier, John P.",NA,"John P.","","TXL000516","tx",NA,"TXL000516",TRUE,NA,"http://www.house.state.tx.us/photos/members/3125.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=17",NA,"2015-03-10 18:14:59",NA,"","17","Republican","",NA,"lower",NA,NA
+"122","Bernal","2017-06-20 10:15:30",NA,"Bernal, Diego M.",NA,"Diego M.","","TXL000517","tx",NA,"TXL000517",TRUE,NA,"http://www.house.state.tx.us/photos/members/3110.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=123",NA,"2015-03-10 18:15:00",NA,"","123","Democratic","",NA,"lower",NA,NA
+"123","Minjarez","2017-06-20 10:17:51",NA,"Minjarez, Ina",NA,"Ina","","TXL000519","tx",NA,"TXL000519",TRUE,NA,"http://www.house.state.tx.us/photos/members/3135.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=124",NA,"2015-05-06 20:11:59",NA,"","124","Democratic","",NA,"lower",NA,NA
+"124","Johnson","2017-06-20 10:15:30",NA,"Johnson, Jarvis",NA,"Jarvis","","TXL000672","tx",NA,"TXL000672",TRUE,NA,"http://www.house.state.tx.us/photos/members/3185.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=139",NA,"2016-12-28 00:23:50",NA,"","139","Democratic","",NA,"lower",NA,NA
+"125","Schubert","2017-06-20 10:17:50",NA,"Schubert, Leighton",NA,"Leighton","","TXL000673","tx",NA,"TXL000673",TRUE,NA,"http://www.house.state.tx.us/photos/members/3115.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=13",NA,"2016-12-28 00:23:50",NA,"","13","Republican","",NA,"lower",NA,NA
+"126","Lang","2017-06-20 10:17:51",NA,"Lang, Mike",NA,"Mike","","TXL000675","tx",NA,"TXL000675",TRUE,NA,"http://www.house.state.tx.us/photos/members/3530.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=60",NA,"2017-01-07 05:53:03",NA,"","60","Republican","",NA,"lower",NA,NA
+"127","Cortez","2017-06-20 10:17:50",NA,"Cortez, Philip",NA,"Philip","","TXL000676","tx",NA,"TXL000676",TRUE,NA,"http://www.house.state.tx.us/photos/members/2365.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=117",NA,"2017-01-07 05:53:03",NA,"","117","Democratic","",NA,"lower",NA,NA
+"128","Biedermann","2017-06-20 10:17:51",NA,"Biedermann, Kyle",NA,"Kyle","","TXL000677","tx",NA,"TXL000677",TRUE,NA,"http://www.house.state.tx.us/photos/members/3575.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=73",NA,"2017-01-07 05:53:03",NA,"","73","Republican","",NA,"lower",NA,NA
+"129","Wilson","2017-06-20 10:15:30",NA,"Wilson, Terry",NA,"Terry","","TXL000678","tx",NA,"TXL000678",TRUE,NA,"http://www.house.state.tx.us/photos/members/3525.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=20",NA,"2017-01-07 05:53:03",NA,"","20","Republican","",NA,"lower",NA,NA
+"130","Perez","2017-06-20 10:17:51",NA,"Perez, Mary Ann",NA,"Mary Ann","","TXL000679","tx",NA,"TXL000679",TRUE,NA,"http://www.house.state.tx.us/photos/members/2535.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=144",NA,"2017-01-07 05:53:03",NA,"","144","Democratic","",NA,"lower",NA,NA
+"131","Stucky","2017-06-20 10:17:51",NA,"Stucky, Lynn",NA,"Lynn","","TXL000680","tx",NA,"TXL000680",TRUE,NA,"http://www.house.state.tx.us/photos/members/3220.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=64",NA,"2017-01-07 05:53:03",NA,"","64","Republican","",NA,"lower",NA,NA
+"132","Lambert","2017-06-20 10:17:50",NA,"Lambert, Stan",NA,"Stan","","TXL000681","tx",NA,"TXL000681",TRUE,NA,"http://www.house.state.tx.us/photos/members/3225.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=71",NA,"2017-01-07 05:53:03",NA,"","71","Republican","",NA,"lower",NA,NA
+"133","Ortega","2017-06-20 10:17:51",NA,"Ortega, Evelina ""Lina""",NA,"Evelina ""Lina""","","TXL000682","tx",NA,"TXL000682",TRUE,NA,"http://www.house.state.tx.us/photos/members/3545.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=77",NA,"2017-01-07 05:53:03",NA,"","77","Democratic","",NA,"lower",NA,NA
+"134","Arévalo","2017-06-20 10:17:51",NA,"Arévalo, Diana",NA,"Diana","","TXL000683","tx",NA,"TXL000683",TRUE,NA,"http://www.house.state.tx.us/photos/members/3555.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=116",NA,"2017-01-07 05:53:03",NA,"","116","Democratic","",NA,"lower",NA,NA
+"135","Neave","2017-06-20 10:17:51",NA,"Neave, Victoria",NA,"Victoria","","TXL000684","tx",NA,"TXL000684",TRUE,NA,"http://www.house.state.tx.us/photos/members/3235.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=107",NA,"2017-01-07 05:53:03",NA,"","107","Democratic","",NA,"lower",NA,NA
+"136","Shine","2017-06-20 10:17:51",NA,"Shine, Hugh",NA,"Hugh","","TXL000685","tx",NA,"TXL000685",TRUE,NA,"http://www.house.state.tx.us/photos/members/4455.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=55",NA,"2017-01-07 05:53:03",NA,"","55","Republican","",NA,"lower",NA,NA
+"137","Gervin-Hawkins","2017-06-20 10:17:51",NA,"Gervin-Hawkins, Barbara",NA,"Barbara","","TXL000686","tx",NA,"TXL000686",TRUE,NA,"http://www.house.state.tx.us/photos/members/3445.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=120",NA,"2017-01-07 05:53:03",NA,"","120","Democratic","",NA,"lower",NA,NA
+"138","Oliverson","2017-06-20 10:17:51",NA,"Oliverson, Tom",NA,"Tom","","TXL000687","tx",NA,"TXL000687",TRUE,NA,"http://www.house.state.tx.us/photos/members/3535.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=130",NA,"2017-01-07 05:53:04",NA,"","130","Republican","",NA,"lower",NA,NA
+"139","Roberts","2017-06-20 10:17:51",NA,"Roberts, Kevin",NA,"Kevin","","TXL000688","tx",NA,"TXL000688",TRUE,NA,"http://www.house.state.tx.us/photos/members/3255.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=126",NA,"2017-01-07 05:53:04",NA,"","126","Republican","",NA,"lower",NA,NA
+"140","Hefner","2017-06-20 10:17:51",NA,"Hefner, Cole",NA,"Cole","","TXL000689","tx",NA,"TXL000689",TRUE,NA,"http://www.house.state.tx.us/photos/members/3505.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=5",NA,"2017-01-07 05:53:04",NA,"","5","Republican","",NA,"lower",NA,NA
+"141","Holland","2017-06-20 10:17:51",NA,"Holland, Justin",NA,"Justin","","TXL000690","tx",NA,"TXL000690",TRUE,NA,"http://www.house.state.tx.us/photos/members/3205.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=33",NA,"2017-01-07 05:53:04",NA,"","33","Republican","",NA,"lower",NA,NA
+"142","Dean","2017-06-20 10:17:51",NA,"Dean, Jay",NA,"Jay","","TXL000691","tx",NA,"TXL000691",TRUE,NA,"http://www.house.state.tx.us/photos/members/3515.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=7",NA,"2017-01-07 05:53:04",NA,"","7","Republican","",NA,"lower",NA,NA
+"143","Hinojosa","2017-06-20 10:17:50",NA,"Hinojosa, Gina",NA,"Gina","","TXL000692","tx",NA,"TXL000692",TRUE,NA,"http://www.house.state.tx.us/photos/members/3210.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=49",NA,"2017-01-07 05:53:04",NA,"","49","Democratic","",NA,"lower",NA,NA
+"144","Bailes","2017-06-20 10:17:51",NA,"Bailes, Ernest",NA,"Ernest","","TXL000693","tx",NA,"TXL000693",TRUE,NA,"http://www.house.state.tx.us/photos/members/3200.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=18",NA,"2017-01-07 05:53:04",NA,"","18","Republican","",NA,"lower",NA,NA
+"145","Swanson","2017-06-20 10:17:51",NA,"Swanson, Valoree",NA,"Valoree","","TXL000694","tx",NA,"TXL000694",TRUE,NA,"http://www.house.state.tx.us/photos/members/3425.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=150",NA,"2017-01-07 05:53:04",NA,"","150","Republican","",NA,"lower",NA,NA
+"146","Gooden","2017-06-20 10:17:51",NA,"Gooden, Lance",NA,"Lance","","TXL000695","tx",NA,"TXL000695",TRUE,NA,"http://www.house.state.tx.us/photos/members/2020.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=4",NA,"2017-01-07 05:53:04",NA,"","4","Republican","",NA,"lower",NA,NA
+"147","Cain","2017-06-20 10:17:51",NA,"Cain, Briscoe",NA,"Briscoe","","TXL000696","tx",NA,"TXL000696",TRUE,NA,"http://www.house.state.tx.us/photos/members/3265.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=128",NA,"2017-01-07 05:53:04",NA,"","128","Republican","",NA,"lower",NA,NA
+"148","Cosper","2017-06-20 10:17:51",NA,"Cosper, Scott",NA,"Scott","","TXL000697","tx",NA,"TXL000697",TRUE,NA,"http://www.house.state.tx.us/photos/members/3215.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=54",NA,"2017-01-07 05:53:04",NA,"","54","Republican","",NA,"lower",NA,NA
+"149","Uresti","2017-06-20 10:17:51",NA,"Uresti, Tomas",NA,"Tomas","","TXL000698","tx",NA,"TXL000698",TRUE,NA,"http://www.house.state.tx.us/photos/members/3435.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=118",NA,"2017-01-07 05:53:04",NA,"","118","Democratic","",NA,"lower",NA,NA
+"150","Thierry","2017-06-20 10:17:51",NA,"Thierry, Shawn",NA,"Shawn","","TXL000699","tx",NA,"TXL000699",TRUE,NA,"http://www.house.state.tx.us/photos/members/3390.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=146",NA,"2017-01-07 05:53:04",NA,"","146","Democratic","",NA,"lower",NA,NA
+"151","Lucio","2017-06-20 10:17:51",NA,"Eddie Lucio III",NA,"Eddie","","TXL000717","tx",NA,"TXL000717",TRUE,"","http://www.house.state.tx.us/photos/members/3610.jpg",NA,"http://www.house.state.tx.us/members/member-page/?district=38",NA,"2017-01-30 05:42:49",NA,"III","38","Democratic","",NA,"lower","",NA
+"152","Estes","2017-06-20 10:17:51","99977","Craig Estes"," 2525 Kell Blvd., Suite 302
+Wichita Falls, TX 76308
+(940) 689-0191","Craig","","TXL000190","tx","49388","TXL000190",TRUE,"a8cbd3c77ee140c0b2693fa9f358b316",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0130","http://www.senate.texas.gov/member.php?d=30","us","2010-06-19 03:51:42","state","","30","Republican","","7031","upper",NA,NA
+"153","Hinojosa","2017-06-20 10:17:51","111956","Juan Hinojosa"," 612 Nolana, Suite 410 B
+McAllen, TX 78504
+(956) 972-1841","Juan ""Chuy""","","TXL000195","tx","10049","TXL000195",TRUE,"c190ea0b18ae4fc79f5c6713e966b3da",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0120","http://www.senate.texas.gov/member.php?d=20","us","2010-06-19 03:51:42","state","","20","Democratic","","2541","upper",NA,NA
+"154","Huffman","2017-06-20 10:17:51",NA,"Joan Huffman"," 6217 Edloe
+Houston, TX 77005
+(713) 662-3821","Joan","","TXL000196","tx","110896","TXL000196",TRUE,"69152ae8ca13461bb220b4be8405042d",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0117","http://www.senate.texas.gov/member.php?d=17","us","2010-06-19 03:51:42","state","","17","Republican","",NA,"upper",NA,NA
+"155","Lucio","2017-06-20 10:17:51","112009","Eddie Lucio, Jr."," 1906 E. Tyler Ave., Suite F-2
+Harlingen, TX 78550
+(956) 365-4458","Eduardo A. (Eddie)","","TXL000198","tx","56543","TXL000198",TRUE,"f89382177e704ec1bc948383a27ceefd",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0606","http://www.senate.texas.gov/member.php?d=27","us","2010-06-19 03:51:42","state","Jr.","27","Democratic","","7777","upper","","1978-12-19"
+"156","Nelson","2017-06-20 10:17:51",NA,"Jane Nelson"," 1235 S. Main St., Suite 280
+Grapevine, TX 76051
+(817) 424-3446","Jane","","TXL000199","tx","5451","TXL000199",TRUE,"722d5603546d4262ad682489327124dc",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0112","http://www.senate.texas.gov/member.php?d=12","us","2010-06-19 03:51:42","state","","12","Republican","",NA,"upper",NA,NA
+"157","Nichols","2017-06-20 10:17:51",NA,"Robert Nichols"," 329 Neches Street
+Jacksonville, TX 75766
+(903) 589-3003","Robert","","TXL000200","tx","59338","TXL000200",TRUE,"1cefda5744d749fca851d945f9e13b59",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0103","http://www.senate.texas.gov/member.php?d=3","us","2010-06-19 03:51:42","state","","3","Republican","",NA,"upper",NA,NA
+"158","Seliger","2017-06-20 10:17:51","112091","Kel Seliger"," P.O. Box 9155
+Amarillo, TX 79105
+(806) 374-8994","Kel","","TXL000203","tx","49550","TXL000203",TRUE,"11e9ea4ef5c6410aad1639509f06a9bd",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0131","http://www.senate.texas.gov/member.php?d=31","us","2010-06-19 03:51:42","state","","31","Republican","","7038","upper",NA,NA
+"159","Uresti","2017-06-20 10:17:51",NA,"Carlos Uresti"," 2530 SW Military Drive, Suite 103
+San Antonio, TX 78224
+(210) 932-2568","Carlos I.","","TXL000206","tx","15218","TXL000206",TRUE,"6383cd88a7ce48dbbb277dccb1a64022",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0119","http://www.senate.texas.gov/member.php?d=19","us","2010-06-19 03:51:42","state","","19","Democratic","",NA,"upper",NA,NA
+"160","Watson","2017-06-20 10:17:51",NA,"Kirk Watson",NA,"Kirk","","TXL000208","tx","57991","TXL000208",TRUE,"09af32f667db43c7a200be9efe778369",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0114","http://www.senate.texas.gov/member.php?d=14","us","2010-06-19 03:51:42","state","","14","Democratic","",NA,"upper",NA,NA
+"161","West","2017-06-20 10:17:51","112145","Royce West"," 5787 S. Hampton Rd., Suite 385
+Dallas, TX 75232
+(214) 467-0123","Royce","","TXL000210","tx","5463","TXL000210",TRUE,"bf3b3664d0ca408d9213cf707cc9a557",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0123","http://www.senate.texas.gov/member.php?d=23","us","2010-06-19 03:51:42","state","","23","Democratic","","1146","upper",NA,NA
+"162","Whitmire","2017-06-20 10:17:51",NA,"John Whitmire"," 803 Yale Street
+Houston, TX 77007
+(713) 864-8701","John","","TXL000211","tx","5464","TXL000211",TRUE,"c2c2d651cb9f4bd3b00364f8d9b84715",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0115","http://www.senate.texas.gov/member.php?d=15","us","2010-06-19 03:51:42","state","","15","Democratic","",NA,"upper",NA,NA
+"163","Zaffirini","2017-06-20 10:17:51","100078","Judith Zaffirini"," P.O. Box 627
+Laredo, TX 78042
+(956) 722-2293","Judith","","TXL000213","tx","5465","TXL000213",TRUE,"6c110ce2dbd94a24996b13c9e2343fc0",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0121","http://www.senate.texas.gov/member.php?d=21","us","2010-06-19 03:51:42","state","","21","Democratic","","1148","upper",NA,NA
+"164","Creighton","2017-06-20 10:17:51","111876","Brandon Creighton"," 326 1/2 Main Street
+Conroe, TX 77301
+(936) 539-0028","Brandon","","TXL000240","tx","50127","TXL000240",TRUE,"a22b59c6dbe943b9915f1cecd268c38c",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0726","http://www.senate.texas.gov/member.php?d=4","us","2010-06-19 03:51:42","state","","4","Republican","","7078","upper",NA,NA
+"165","Hancock","2017-06-20 10:17:51","111942","Kelly Hancock"," P.O. Box 185096
+Fort Worth, TX 76181
+(817) 590-9280","Kelly","","TXL000271","tx","59194","TXL000271",TRUE,"ba3847be6cec4d4bb3c14c5aab68a471",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0599","http://www.senate.texas.gov/member.php?d=9","us","2010-06-19 03:51:42","state","","9","Republican","","8117","upper",NA,NA
+"166","Kolkhorst","2017-06-20 10:17:51","111993","Lois Kolkhorst"," P.O. Box 1867
+Brenham, TX 77834
+(979) 251-7888","Lois W.","","TXL000297","tx","49608","TXL000297",TRUE,"dd12690d5d75437e97a1c46fcc48d61e",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0600","http://www.senate.texas.gov/member.php?d=18","us","2010-06-19 03:51:42","state","","18","Republican","","7041","upper",NA,NA
+"167","Menéndez","2017-06-20 10:17:51","112027","José Menéndez"," 7121 US Hwy. 90 West, Ste. 240
+San Antonio, TX 78227
+(210) 673-3579","José","","TXL000312","tx","49908","TXL000312",TRUE,"c36d8b77d70d47cc88ce89a3a97a3024",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0634","http://www.senate.texas.gov/member.php?d=26","us","2010-06-19 03:51:42","state","","26","Democratic","","7063","upper","",NA
+"168","Taylor","2017-06-20 10:17:51","112117","Larry Taylor"," 174 Calder Road, Suite 116
+League City, TX 77573
+(281) 338-0924","Larry","","TXL000349","tx","25471","TXL000349",TRUE,"33194a0192b14e4fbecd8787da18b95b",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0729","http://www.senate.texas.gov/member.php?d=11","us","2010-06-19 03:51:42","state","","11","Republican","","4028","upper",NA,NA
+"169","Taylor","2017-06-20 10:17:51",NA,"Van Taylor"," 2121 W. Spring Creek Parkway
+Plano, TX 75023
+(972) 398-9416","Van","","TXL000350","tx","59392","TXL000350",TRUE,"899eac080af34289bc256f8a56829239",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0594","http://www.senate.texas.gov/member.php?d=8","us","2010-06-19 03:51:42","state","","8","Republican","",NA,"upper",NA,NA
+"170","Birdwell","2017-06-20 10:17:51",NA,"Brian Birdwell"," 900 Austin Ave, Suite 500
+Waco, TX 76701
+(254) 772-6225","Brian","","TXL000364","tx","127373","TXL000364",TRUE,"a6542d226bbc48caa009ee09f8e95d5d",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0122","http://www.senate.texas.gov/member.php?d=22","us","2010-07-17 08:38:47","state","","22","Republican","",NA,"upper",NA,NA
+"171","Perry","2017-06-20 10:17:51",NA,"Charles Perry"," 11003 Quaker Avenue, Ste. 101
+Lubbock, TX 79424
+(806) 783-9934","Charles","","TXL000400","tx","116957","TXL000400",TRUE,"8fb11c2c10654abaa89d9cbf7435c7b0",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0542","http://www.senate.texas.gov/member.php?d=28","us","2011-01-14 22:24:08","state","","28","Republican","",NA,"upper",NA,NA
+"172","Schwertner","2017-06-20 10:17:51",NA,"Charles Schwertner"," P.O. Box 2448
+Georgetown, TX 78627","Charles","","TXL000405","tx","116941","TXL000405",TRUE,"6d53976941b44bce98877def7e4c3343",""," P.O. Box 2910
+Austin, TX 78768
+(512) 463-0309","http://www.senate.texas.gov/member.php?d=5","us","2011-01-14 22:24:08","state","","5","Republican","",NA,"upper",NA,NA
+"173","Rodríguez	","2017-06-20 10:17:51",NA,"José R. Rodríguez	"," 100 N. Ochoa, Suite A
+El Paso, TX 79901
+(915) 351-3500","José","R.","TXL000414","tx","117009","TXL000414",TRUE,"2dc5243cf90b4c578a19aae469d7f011",""," P.O. Box 12068, Capitol Station
+Austin, TX 78711
+(512) 463-0129","http://www.senate.texas.gov/member.php?d=29","us","2011-01-14 22:24:08","state","","29","Democratic","",NA,"upper","",NA
+"174","Campbell","2017-06-20 10:17:51",NA,"Donna Campbell",NA,"Donna","","TXL000419","tx",NA,"TXL000419",TRUE,"60862c8f8ee640cdafadf75234812bbb","",NA,"http://www.senate.texas.gov/member.php?d=25",NA,"2013-01-09 00:29:35",NA,"","25","Republican","",NA,"upper",NA,NA
+"175","Garcia","2017-06-20 10:15:30",NA,"Sylvia R. Garcia",NA,"Sylvia R.","","TXL000473","tx",NA,"TXL000473",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=6",NA,"2013-03-12 18:18:45",NA,"","6","Democratic","",NA,"upper",NA,NA
+"176","Huffines","2017-06-20 10:17:51",NA,"Don Huffines",NA,"Don","","TXL000479","tx",NA,"TXL000479",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=16",NA,"2015-01-14 00:53:27",NA,"","16","Republican","",NA,"upper",NA,NA
+"177","Bettencourt","2017-06-20 10:17:51",NA,"Paul Bettencourt",NA,"Paul","","TXL000482","tx",NA,"TXL000482",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=7",NA,"2015-01-14 00:53:27",NA,"","7","Republican","",NA,"upper",NA,NA
+"178","Burton","2017-06-20 10:17:51",NA,"Konni Burton",NA,"Konni","","TXL000487","tx",NA,"TXL000487",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=10",NA,"2015-01-14 00:53:27",NA,"","10","Republican","",NA,"upper",NA,NA
+"179","Hall","2017-06-20 10:17:51",NA,"Bob Hall",NA,"Bob","","TXL000503","tx",NA,"TXL000503",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=2",NA,"2015-01-14 00:53:27",NA,"","2","Republican","",NA,"upper",NA,NA
+"180","Buckingham","2017-06-20 10:17:51",NA,"Dawn Buckingham",NA,"Dawn","","TXL000705","tx",NA,"TXL000705",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=24",NA,"2017-01-18 03:03:18",NA,"","24","Republican","",NA,"upper",NA,NA
+"181","Miles","2017-06-20 10:17:51",NA,"Borris L. Miles",NA,"Borris L.","","TXL000707","tx",NA,"TXL000707",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=13",NA,"2017-01-18 03:03:18",NA,"","13","Democratic","",NA,"upper",NA,NA
+"182","Hughes","2017-06-20 10:17:51",NA,"Bryan Hughes",NA,"Bryan","","TXL000716","tx",NA,"TXL000716",TRUE,NA,"",NA,"http://www.senate.texas.gov/member.php?d=1",NA,"2017-01-27 05:42:08",NA,"","1","Republican","",NA,"upper",NA,NA
