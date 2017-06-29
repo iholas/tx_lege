@@ -1,6 +1,6 @@
 ############
 # A script to read in People (Legislators) from Open State API 
-# Proect: Texas Bipartisanship by Mark Clayton Hand
+# Project: Texas Bipartisanship by Mark Clayton Hand
 # Script Author: Igor Holas 
 # Date: 06-19-2017
 ###########

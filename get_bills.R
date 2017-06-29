@@ -1,6 +1,6 @@
 ############
 # A script to read in Bills and Bills Details from Open State API 
-# Proect: Texas Bipartisanship by Mark Clayton Hand
+# Project: Texas Bipartisanship by Mark Clayton Hand
 # Script Author: Igor Holas 
 # Date: 06-19-2017
 ###########

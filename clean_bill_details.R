@@ -1,6 +1,6 @@
 ############
 # A script to process Bills and Bills Details data for analysis
-# Proect: Texas Bipartisanship by Mark Clayton Hand
+# Project: Texas Bipartisanship by Mark Clayton Hand
 # Script Author: Igor Holas 
 # Date: 06-20-2017
 ###########
@@ -24,7 +24,7 @@ setwd('~/tx_lege')
 # people_small.csv comes from get_people.R
 sponsors <- read.csv("data/TX_85_sponsors.csv")
 action_dates <- read.csv("data/TX_85_action_dates.csv")
-people_sall <- read.csv("data/TX_85_people_small.csv")
+people_small <- read.csv("data/TX_85_people_small.csv")
 spons_repub <- merge(sponsors, people_small, by='leg_id')
 
 bill_facts <- as.data.frame(as.list(aggregate(spons_repub[, c('repub')], list(spons_repub$bill_id), FUN=function(x) c(mn = mean(x), n = length(x) ) ) ) )
